@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
 	<AutoSaveDataInSettings>Use</AutoSaveDataInSettings>
 	<AutoTitle>false</AutoTitle>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
@@ -86,7 +86,6 @@
 										</CommandBar>
 										<UsualGroup name="Группа2" id="34">
 											<Group>AlwaysHorizontal</Group>
-											<Behavior>Usual</Behavior>
 											<Representation>None</Representation>
 											<ShowTitle>false</ShowTitle>
 											<ExtendedTooltip name="Группа2РасширеннаяПодсказка" id="35"/>
@@ -186,7 +185,6 @@
 													</ChildItems>
 												</Table>
 												<UsualGroup name="Группа9" id="172">
-													<Behavior>Usual</Behavior>
 													<Representation>None</Representation>
 													<ShowTitle>false</ShowTitle>
 													<ExtendedTooltip name="Группа9РасширеннаяПодсказка" id="173"/>
@@ -948,7 +946,6 @@
 						</LabelDecoration>
 						<UsualGroup name="Группа24" id="456">
 							<Group>AlwaysHorizontal</Group>
-							<Behavior>Usual</Behavior>
 							<ExtendedTooltip name="Группа24РасширеннаяПодсказка" id="457"/>
 							<ChildItems>
 								<LabelDecoration name="ДекорацияЗагрузкаШаг1" id="453">
@@ -971,7 +968,6 @@
 									<ExtendedTooltip name="ДекорацияЗагрузкаШаг1РасширеннаяПодсказка" id="455"/>
 								</LabelDecoration>
 								<UsualGroup name="Группа25" id="458">
-									<Behavior>Usual</Behavior>
 									<ExtendedTooltip name="Группа25РасширеннаяПодсказка" id="459"/>
 								</UsualGroup>
 								<UsualGroup name="НастройкиЗагрузки" id="384">
@@ -1006,7 +1002,6 @@
 												</v8:item>
 											</ToolTip>
 											<Group>Vertical</Group>
-											<Behavior>Usual</Behavior>
 											<ExtendedTooltip name="Группа16РасширеннаяПодсказка" id="390"/>
 											<ChildItems>
 												<InputField name="ФорматДатыДляЗагрузки" id="386">
@@ -1188,12 +1183,10 @@
 						</UsualGroup>
 						<UsualGroup name="Группа7" id="125">
 							<Group>Vertical</Group>
-							<Behavior>Usual</Behavior>
 							<ShowTitle>false</ShowTitle>
 							<ExtendedTooltip name="Группа7РасширеннаяПодсказка" id="126"/>
 							<ChildItems>
 								<UsualGroup name="Группа26" id="463">
-									<Behavior>Usual</Behavior>
 									<Representation>None</Representation>
 									<ShowTitle>false</ShowTitle>
 									<ExtendedTooltip name="Группа26РасширеннаяПодсказка" id="464"/>
@@ -1253,7 +1246,6 @@
 									</ChildItems>
 								</UsualGroup>
 								<UsualGroup name="Группа18" id="420">
-									<Behavior>Usual</Behavior>
 									<ExtendedTooltip name="Группа18РасширеннаяПодсказка" id="421"/>
 									<ChildItems>
 										<UsualGroup name="Группа8" id="129">
@@ -1264,7 +1256,6 @@
 												</v8:item>
 											</Title>
 											<Group>Vertical</Group>
-											<Behavior>Usual</Behavior>
 											<ExtendedTooltip name="Группа8РасширеннаяПодсказка" id="130"/>
 											<ChildItems>
 												<InputField name="ПредставлениеОбъектаЗагрузка" id="131">
@@ -1329,7 +1320,6 @@
 						</UsualGroup>
 						<UsualGroup name="Группа1" id="17">
 							<Group>Vertical</Group>
-							<Behavior>Usual</Behavior>
 							<ShowTitle>false</ShowTitle>
 							<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="18"/>
 							<ChildItems>
@@ -1451,7 +1441,6 @@
 							</ChildItems>
 						</UsualGroup>
 						<UsualGroup name="Группа19" id="471">
-							<Behavior>Usual</Behavior>
 							<Representation>None</Representation>
 							<ShowTitle>false</ShowTitle>
 							<ExtendedTooltip name="Группа19РасширеннаяПодсказка" id="472"/>
@@ -1518,7 +1507,6 @@
 						</UsualGroup>
 						<UsualGroup name="Группа27" id="473">
 							<Group>AlwaysHorizontal</Group>
-							<Behavior>Usual</Behavior>
 							<Representation>None</Representation>
 							<ShowTitle>false</ShowTitle>
 							<ExtendedTooltip name="Группа27РасширеннаяПодсказка" id="474"/>
@@ -1550,7 +1538,6 @@
 										</v8:item>
 									</Title>
 									<Group>Vertical</Group>
-									<Behavior>Usual</Behavior>
 									<Representation>StrongSeparation</Representation>
 									<ExtendedTooltip name="Группа20РасширеннаяПодсказка" id="425"/>
 									<ChildItems>
@@ -1624,7 +1611,6 @@
 											<ExtendedTooltip name="ДатаПоискаРасширеннаяПодсказка" id="437"/>
 										</InputField>
 										<UsualGroup name="Группа23" id="447">
-											<Behavior>Usual</Behavior>
 											<Representation>None</Representation>
 											<ShowTitle>false</ShowTitle>
 											<ExtendedTooltip name="Группа23РасширеннаяПодсказка" id="448"/>
@@ -1656,7 +1642,6 @@
 							</ChildItems>
 						</UsualGroup>
 						<UsualGroup name="Группа28" id="478">
-							<Behavior>Usual</Behavior>
 							<Representation>None</Representation>
 							<ShowTitle>false</ShowTitle>
 							<ExtendedTooltip name="Группа28РасширеннаяПодсказка" id="479"/>
@@ -1682,7 +1667,6 @@
 								</LabelDecoration>
 								<UsualGroup name="Группа17" id="415">
 									<Group>AlwaysHorizontal</Group>
-									<Behavior>Usual</Behavior>
 									<ExtendedTooltip name="Группа17РасширеннаяПодсказка" id="416"/>
 									<ChildItems>
 										<InputField name="СсылкаНаДокумент" id="409">
@@ -1764,7 +1748,6 @@
 							<ExtendedTooltip name="ВерсияВыгрузкиРасширеннаяПодсказка" id="124"/>
 						</LabelDecoration>
 						<UsualGroup name="Группа4" id="98">
-							<Behavior>Usual</Behavior>
 							<Representation>None</Representation>
 							<ShowTitle>false</ShowTitle>
 							<ExtendedTooltip name="Группа4РасширеннаяПодсказка" id="99"/>
@@ -1812,7 +1795,6 @@
 								</v8:item>
 							</Title>
 							<Group>Vertical</Group>
-							<Behavior>Usual</Behavior>
 							<ExtendedTooltip name="Группа5РасширеннаяПодсказка" id="106"/>
 							<ChildItems>
 								<InputField name="ПредставлениеОбъектаВыгрузка" id="107">
@@ -1872,7 +1854,6 @@
 							</ChildItems>
 						</UsualGroup>
 						<UsualGroup name="Группа6" id="116">
-							<Behavior>Usual</Behavior>
 							<ExtendedTooltip name="Группа6РасширеннаяПодсказка" id="117"/>
 							<ChildItems>
 								<Button name="Выгрузить" id="118">
@@ -2955,7 +2936,7 @@
 				</v8:item>
 			</Title>
 			<Type>
-				<v8:TypeSet>cfg:AnyIBRef</v8:TypeSet>
+				<v8:TypeSet>cfg:AnyRef</v8:TypeSet>
 			</Type>
 		</Attribute>
 		<Attribute name="ИмяТабличнойЧасти" id="27">

@@ -37,3 +37,33 @@ clear
 git push origin --delete main
 git branch
 git status
+git status
+git push
+git status
+git add .
+git status
+git commit -m 'reasonless'
+git status
+git push
+git status
+clear
+cd ..
+LS
+clear
+cd Git_USER2
+git init
+git clone https://github.com/CurdogloS/DConsoleMigr.git
+ls
+cd DConsoleMigr
+git status
+git branch User2
+git status
+git switch User2
+git status
+git branch
+clear
+git status
+git add .
+git commit -m 'changes'
+git status
+clear
