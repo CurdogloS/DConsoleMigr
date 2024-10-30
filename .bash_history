@@ -24,3 +24,16 @@ git status
 git add .
 git status
 git commit
+git status
+git add .
+git pull origin
+git status
+git commit -m 1
+git status
+clear
+git log
+git help
+clear
+git push origin --delete main
+git branch
+git status
